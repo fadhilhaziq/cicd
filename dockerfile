@@ -1,1 +1,1 @@
-FROM jenkins/inbound-agent:latest
+FROM nginx:latest
